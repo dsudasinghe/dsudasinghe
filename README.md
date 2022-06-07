@@ -1,6 +1,8 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋</h2>
 
+<p><em>Software Engineering Undergraduate at <a href="https://www.plymouth.ac.uk/">University of Plymouth</a>
+
 [![Twitter](https://img.shields.io/twitter/follow/d_sudasinghe?style=social)](https://twitter.com/d_sudasinghe)
 [![Linkedin](https://img.shields.io/badge/-DananjayaSudasinghe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)](https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)
 [![GitHub](https://img.shields.io/github/followers/dsudasinghe?label=follow&style=social)](https://github.com/dsudasinghe)
