@@ -1,4 +1,5 @@
-### Hi there, I'm Lahiru. 👋
+
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋</h2>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/d_sudasinghe)](https://twitter.com/d_sudasinghe)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)](https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11349010/dananjaya-sudasinghe?tab=profile)](https://stackoverflow.com/users/11349010/dananjaya-sudasinghe?tab=profile)
