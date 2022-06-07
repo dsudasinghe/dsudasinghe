@@ -16,9 +16,8 @@ const lahiruDananjaya = {
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "",
-                        speaker: "",
-                        mentor: ""
+                        volunteer: ["FOSS NSBM" , "Mozilla Campus Club" , "IEEE NSBM"],
+                        formerPresident: "Bandaranayake College Computer Society"
                       },
  funFact: "There are two ways to write error-free programs; only the third one works"
 }
