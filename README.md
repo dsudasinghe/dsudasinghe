@@ -10,17 +10,17 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
   
  ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const lahiruDananjaya = {
+  pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "",
+                        speaker: "",
+                        mentor: ""
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
 
