@@ -14,6 +14,9 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
@@ -24,5 +27,5 @@
 ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
