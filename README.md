@@ -9,8 +9,6 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-![dsudasinghe's github stats](https://github-readme-stats.vercel.app/api?username=dsudasinghe&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsudasinghe&layout=compact)
 
 ### Skills : <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
