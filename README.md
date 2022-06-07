@@ -1,6 +1,8 @@
 
 <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 𝐈'𝐦 𝐋𝐚𝐡𝐢𝐫𝐮 𝐃𝐚𝐧𝐚𝐧𝐣𝐚𝐲𝐚 𝐒𝐮𝐝𝐚𝐬𝐢𝐧𝐠𝐡𝐞👋</h2>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <p><em>Software Engineering Undergraduate at <a href="https://www.plymouth.ac.uk/">University of Plymouth</a>
 
 [![Twitter](https://img.shields.io/twitter/follow/d_sudasinghe?style=social)](https://twitter.com/d_sudasinghe)
