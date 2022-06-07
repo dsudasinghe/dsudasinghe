@@ -11,15 +11,15 @@
   
  ```javascript
 const lahiruDananjaya = {
-  pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
+    pronouns: "He" | "Him",
+    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+    tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+    architecture: ["microservices", "event-driven", "design system pattern"],
+    techCommunities: {
                         volunteer: ["FOSS NSBM" , "Mozilla Campus Club" , "IEEE NSBM"],
                         formerPresident: "Bandaranayake College Computer Society"
                       },
- funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
 
