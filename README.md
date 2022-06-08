@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/d_sudasinghe?style=social)](https://twitter.com/d_sudasinghe)
 [![Linkedin](https://img.shields.io/badge/-DananjayaSudasinghe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)](https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)
 [![GitHub](https://img.shields.io/github/followers/dsudasinghe?label=follow&style=social)](https://github.com/dsudasinghe)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11349010/dananjaya-sudasinghe?tab=profile)](https://stackoverflow.com/users/11349010/dananjaya-sudasinghe?tab=profile
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11349010/dananjaya-sudasinghe?tab=profile)](https://stackoverflow.com/users/11349010/dananjaya-sudasinghe?tab=profile)
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
   
