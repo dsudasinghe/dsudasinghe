@@ -46,5 +46,9 @@ const lahiruDananjaya = {
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+  
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dsudasinghe&show_icons=true&theme=gotham" alt="dsudasinghe" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
