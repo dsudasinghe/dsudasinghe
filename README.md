@@ -14,8 +14,7 @@
 const lahiruDananjaya = {
     pronouns: "He" | "Him",
     code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-    tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-    architecture: ["microservices", "event-driven", "design system pattern"],
+    tools: [React, Redux, Node, Storybook, Styled-Components, Jest, MongoDB],
     techCommunities: {
                         volunteer: ["FOSS NSBM" , "Mozilla Campus Club" , "IEEE NSBM"],
                         formerPresident: "Bandaranayake College Computer Society"
