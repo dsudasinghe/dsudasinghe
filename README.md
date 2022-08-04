@@ -13,8 +13,8 @@
  ```javascript
 const lahiruDananjaya = {
     pronouns: "He" | "Him",
-    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-    tools: [React, Redux, Node, Storybook, Styled-Components, Jest, MongoDB],
+    code: [Javascript, HTML, CSS, C#, C++, Python, Java],
+    tools: [React, Node, ExpressJS, Bootstrap, Material-UI, Firebase, MongoDB],
     techCommunities: {
                         volunteer: ["FOSS NSBM" , "Mozilla Campus Club" , "IEEE NSBM"],
                         formerPresident: "Bandaranayake College Computer Society"
