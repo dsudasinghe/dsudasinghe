@@ -1,7 +1,7 @@
 
 <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 𝐈'𝐦 𝐋𝐚𝐡𝐢𝐫𝐮👋</h2>
 
-<p><em>Software Engineerat <a href="https://www.virtusa.com/">Virtusa</a>
+<p><em>Software Engineer at <a href="https://www.virtusa.com/">Virtusa</a>
 
 [![Linkedin](https://img.shields.io/badge/-DananjayaSudasinghe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)](https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)
 [![GitHub](https://img.shields.io/github/followers/dsudasinghe?label=follow&style=social)](https://github.com/dsudasinghe)
